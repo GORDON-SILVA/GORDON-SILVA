@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GORDON-SILVA
 - 👀 I’m interested in building blockchain-based wireless networks
-- 🌱 I’m currently learning Stackelberg game and bloockchain
+- 🌱 I’m currently learning Stackelberg game and blockchain
 - 💞️ I’m looking to collaborate on building blockchain-based wireless networks
 - 📫 How to reach me boatenggordon48@gmail.com
 
